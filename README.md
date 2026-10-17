@@ -7,16 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+a+Developer+%F0%9F%91%8B;Passionate+About+Building+Cool+Things+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Animated typing headline" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kaveerchaudhary-cpu&label=Profile+Views&color=00b8d4&style=flat-square" alt="Profile view counter" />
-<img src="https://img.shields.io/github/followers/kaveerchaudhary-cpu?style=flat-square&color=ff00e5&logo=github" alt="GitHub followers" />
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 👨‍💻 About Me
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-about.svg" alt="About Me" width="100%"/></div>
 
 ✨ Passionate about technology, software development, and continuous learning.
 
@@ -28,9 +24,9 @@
 
 > 💬 *"Learn continuously. Build consistently. Improve every day."*
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 🐍 Watch My Contributions Get Eaten
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-snake.svg" alt="Watch My Contributions Get Eaten" width="100%"/></div>
 
 <div align="center">
   <picture>
@@ -40,9 +36,9 @@
   </picture>
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 💻 Tech Stack
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-stack.svg" alt="Tech Stack" width="100%"/></div>
 
 <div align="center">
 
@@ -78,9 +74,9 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 🚀 Featured Projects
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-projects.svg" alt="Featured Projects" width="100%"/></div>
 
 <!-- TODO: replace every placeholder below with your real repositories. Delete any block you don't need. -->
 
@@ -115,9 +111,9 @@
   </tr>
 </table>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 📊 GitHub Analytics
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-analytics.svg" alt="GitHub Analytics" width="100%"/></div>
 
 <div align="center">
 <table>
@@ -139,21 +135,21 @@
 
 <sub>ℹ️ These cards come from third-party services and each counts things a little differently. Private contributions are not included.</sub>
 
-### 🏆 Trophies
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-trophies.svg" alt="Trophies" width="100%"/></div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaveerchaudhary-cpu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 </div>
 
-### 📈 Contribution Activity
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-activity.svg" alt="Contribution Activity" width="100%"/></div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveerchaudhary-cpu&theme=react-dark&bg_color=0d1117&color=00f0ff&line=ff00e5&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
-## 🌐 Connect With Me
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/h-connect.svg" alt="Connect With Me" width="100%"/></div>
 
 <div align="center">
 
@@ -169,7 +165,7 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/kaveerchaudhary-cpu/kaveerchaudhary-cpu/main/assets/divider.svg" alt="" width="100%"/></div>
 
 <div align="center">
 
